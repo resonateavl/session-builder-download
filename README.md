@@ -12,7 +12,9 @@ or from a setlist you paste in, or songs you pick in Finder.
 
 ## ⬇️ Download
 
-**[Download the latest version](https://github.com/resonateavl/session-builder-download/releases/latest)** — under *Assets*, click **SessionBuilder-mac-….zip**.
+**[Download Session Builder for Mac (version 1.2)](https://github.com/resonateavl/session-builder-download/raw/main/SessionBuilder-mac.zip)**
+
+This link always gets the newest version.
 
 ## Install
 
