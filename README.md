@@ -10,22 +10,24 @@ or from a setlist you paste in, or songs you pick in Finder.
 - STOP after every song; piano, bass and drums stems muted
 - Add songs to a session you already built
 
-## ⬇️ Download
+## ⬇️ Download (version 2.0)
 
-**[Download Session Builder for Mac (version 1.3)](https://github.com/resonateavl/session-builder-download/raw/main/SessionBuilder-mac.zip)**
+- **[Download for Apple Silicon Macs (M1, M2, M3, M4…)](https://github.com/resonateavl/session-builder-download/raw/main/SessionBuilder-AppleSilicon.dmg)**
+- **[Download for Intel Macs](https://github.com/resonateavl/session-builder-download/raw/main/SessionBuilder-Intel.dmg)**
 
-This link always gets the newest version.
+Not sure which? Apple menu → About This Mac. "Chip: Apple M…" = Apple Silicon. "Processor: Intel" = Intel.
 
 ## Install
 
-1. Double-click the zip, then drag **Session Builder** into your **Applications** folder.
-2. Open it. The first time, macOS may say it can't verify the app:
+1. Open the downloaded **.dmg** and drag **Session Builder** onto the **Applications** folder.
+2. Open Session Builder. The first time, macOS may say it can't verify the app:
    open **System Settings → Privacy & Security**, scroll down and click **Open Anyway**.
-3. If you don't have Python 3, the app offers to open python.org — install it (about 2 minutes) and open Session Builder again.
-4. In **Settings**, choose your stems library folder, your Ableton template (one is included) and where sessions should be saved.
-5. To use Planning Center: **Settings → Planning Center → Add a church** and paste a Personal Access Token
+3. In **Settings**, choose your stems library folder, your Ableton template (one is included) and where sessions should be saved.
+4. To use Planning Center: **Settings → Planning Center → Add a church** and paste a Personal Access Token
    (api.planningcenteronline.com → Personal Access Tokens → New, with Services selected).
    Your tokens stay on your Mac.
+
+Everything it needs is built in — no Python or other installs.
 
 Requires macOS 11 or later and Ableton Live 12.
 
