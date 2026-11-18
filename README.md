@@ -1,5 +1,12 @@
 # Session Builder for Mac
 
+**Session Builder has moved.** Download it from the Resonate AVL website: https://resonateavl.com/apps.html
+
+Or directly: [Apple silicon](https://github.com/resonateavl/resonate-downloads/raw/main/session-builder/SessionBuilder-mac.dmg) · [Intel](https://github.com/resonateavl/resonate-downloads/raw/main/session-builder/SessionBuilder-mac-intel.dmg) · [Setup guide](https://resonate-stagescreen.netlify.app/setup/#sessionbuilder)
+
+---
+
+
 Builds your Ableton Live 12 church sessions automatically from a Planning Center setlist —
 or from a setlist you paste in, or songs you pick in Finder.
 
